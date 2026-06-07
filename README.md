@@ -19,7 +19,7 @@ Sou estudante do 1º período de Ciência da Computação na CESAR School e atua
 <img src="https://img.shields.io/badge/Python-ff85da?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-ff85da?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-ff85da?style=for-the-badge&logo=css&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-ff85da?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/C++-ff85da?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 ## Contato:
-<a href="www.linkedin.com/in/maria-júlia-oliveira-dionísio-2335a13b8" target="_blank">
+<a href="https://www.linkedin.com/in/maria-júlia-oliveira-dionísio-2335a13b8" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-ff85da?style=for-the-badge&logo=linkedin-white&logoColor=ff85da" alt="LinkedIn" />
 </a>
 <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
