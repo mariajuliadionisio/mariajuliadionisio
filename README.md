@@ -22,7 +22,7 @@ Eu me chamo Maria Júlia O. Dionísio e sou estudante do 1º período de Ciênci
 <a href="https://www.linkedin.com/in/maria-júlia-oliveira-dionísio-2335a13b8" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-ff85da?style=for-the-badge&logo=linkedin-white&logoColor=ff85da" alt="LinkedIn" />
 </a>
-<a href="mailto:SEU_EMAIL_AQUI@gmail.com">
+<a href="mailto:mjod@cesar.school.com">
   <img src="https://img.shields.io/badge/Gmail-ff85da?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
