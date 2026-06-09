@@ -30,6 +30,5 @@ Eu me chamo Maria Júlia O. Dionísio e sou estudante do 1º período de Ciênci
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mariajuliadionisio&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariajuliadionisio&layout=compact&theme=dracula" height="150"  />
 </div>
 
