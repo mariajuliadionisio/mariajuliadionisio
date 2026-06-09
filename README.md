@@ -1,12 +1,12 @@
 <div align="center">
 
-## Hi there,<br>I'm Maria Júlia O. Dionísio!</h2>
+## Oi, seja bem-vindo(a)!<br>
 
 </div>
 
 ## Sobre mim:
 
-Sou estudante do 1º período de Ciência da Computação na CESAR School e atualmente busco aprimorar minha lógica de programação e arquitetura de sistemas através de linguagens como Python, C++ e JavaScript, além de consolidar as bases da Web com HTML e CSS. Muito motivada por cada passo dessa jornada.
+Eu me chamo Maria Júlia O. Dionísio e sou estudante do 1º período de Ciência da Computação na CESAR School e atualmente busco aprimorar minha lógica de programação e arquitetura de sistemas através de linguagens como Python, C++ e JavaScript, além de consolidar as bases da Web com HTML e CSS. Muito motivada por cada passo dessa jornada.
 
 ## Interesses:
 * Cibersegurança
@@ -27,9 +27,9 @@ Sou estudante do 1º período de Ciência da Computação na CESAR School e atua
 </a>
 
 ##
-<div align="center">
-  
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariajuliadionisio&" alt="mariajuliadionisio" min-width="370px" max-width="370px" width="350px" /></p>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mariajuliadionisio&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariajuliadionisio&layout=compact&theme=dracula" height="150"  />
 </div>
 
