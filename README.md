@@ -6,7 +6,7 @@
 
 ## Sobre mim:
 
-Eu me chamo Maria Júlia O. Dionísio e sou estudante do 1º período de Ciência da Computação na CESAR School e atualmente busco aprimorar minha lógica de programação e arquitetura de sistemas através de linguagens como Python, C++ e JavaScript, além de consolidar as bases da Web com HTML e CSS. Muito motivada por cada passo dessa jornada.
+Eu me chamo Maria Júlia O. Dionísio e sou estudante do 2º período de Ciência da Computação na CESAR School e atualmente busco aprimorar minha lógica de programação e arquitetura de sistemas através de linguagens como Python, C++ e JavaScript, além de consolidar as bases da Web com HTML e CSS. Muito motivada por cada passo dessa jornada.
 
 ## Interesses:
 * Cibersegurança
